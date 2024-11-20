@@ -1,0 +1,8 @@
+aiogram
+sqlalchemy
+python-dotenv
+asyncpg
+aiosqlite
+
+
+# pip install -r requirements.txt
